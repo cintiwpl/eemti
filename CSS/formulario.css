@@ -1,0 +1,14 @@
+.conteiner-from{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.conteiner-from img{
+    width: 50%;
+    height: 500px;
+    margin-right:  20px; 
+}
+.conteiner-from{
+    width: 50%;
+    height: 600px;
+}
